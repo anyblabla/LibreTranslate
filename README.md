@@ -110,11 +110,11 @@ The default shortcut to translate selected text is:
 
 ## 🤝 Contribution / Contribution
 
-This project is licensed under AGPL-3.0. Contributions are welcome! Feel free to open issues or submit pull requests on **Codeberg**.
+This project is licensed under AGPL-2.0. Contributions are welcome! Feel free to open issues or submit pull requests on **GitHub**.
 
 ## ⚖️ Licence / License
 
-This project is distributed under the **AGPL-3.0** license. See the [LICENSE](LICENSE) file for details.
+This project is distributed under the **AGPL-2.0** license. See the [LICENSE](LICENSE) file for details.
 
 ---
 *Développé par **Blabla Linux** / Developed by **Blabla Linux***
