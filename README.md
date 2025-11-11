@@ -121,5 +121,6 @@ This project is licensed under AGPL-3.0. Contributions are welcome! Feel free to
 This project is distributed under the **AGPL-3.0** license. See the [LICENSE](LICENSE) file for details.
 
 ---
-*Développé par Blabla Linux / Developed by Blabla Linux*
-*Basé sur le travail initial de Indogermane / Based on initial work by Indogermane*
+*Développé par **Blabla Linux** / Developed by **Blabla Linux***
+
+*Basé sur le travail initial de **Indogermane** / Based on initial work by **Indogermane***
