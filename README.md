@@ -1,7 +1,7 @@
 # 🌍 LibreTranslate - Extension Navigateur (Manifest V3)
 
-[![Version](https://img.shields.io/badge/Version-1.1.3-blue.svg)](https://github.com/votre-utilisateur/votre-repo)
-[![Licence](https://img.shields.io/badge/License-AGPL--3.0-green.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-0.9-blue.svg)](https://github.com/anyblabla/LibreTranslate)
+[![Licence](https://img.shields.io/badge/License-AGPL--2.0-green.svg)](LICENSE)
 [![Langue par défaut](https://img.shields.io/badge/Locale%20par%20d%C3%A9faut-Fran%C3%A7ais-blue.svg)](README.md)
 
 ---
