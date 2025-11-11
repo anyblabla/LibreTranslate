@@ -1,0 +1,8 @@
+{
+    "manifest_description": {
+        "message": "Une extension simple pour traduire du texte en utilisant LibreTranslate."
+    },
+    "manifest_command_translateSelection": {
+        "message": "Traduire le texte sélectionné via un raccourci clavier."
+    }
+}

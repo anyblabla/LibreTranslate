@@ -1,0 +1,86 @@
+{
+    "manifest_description": {
+        "message": "Traductions Google respectueuses de la vie privée, propulsées par LibreTranslate",
+        "description": "Description du Manifeste de l'extension"
+    },
+
+    "manifest_command_translateSelection": {
+        "message": "Traduire le texte sélectionné",
+        "description": "Description de la commande du Manifeste pour traduire le texte sélectionné"
+    },
+
+    "instance": {
+        "message": "Instance",
+        "description": "Label pour le champ de l'instance"
+    },
+
+    "defaultSourceLanguage": {
+        "message": "Langue source par défaut",
+        "description": "Label pour le champ de la langue source par défaut"
+    },
+
+    "defaultTargetLanguage": {
+        "message": "Langue cible par défaut",
+        "description": "Label pour le champ de la langue cible par défaut"
+    },
+
+    "heightOfTextareas": {
+        "message": "Hauteur des zones de texte",
+        "description": "Label pour le champ de la hauteur des zones de texte"
+    },
+
+    "widthOfTextareas": {
+        "message": "Largeur des zones de texte",
+        "description": "Label pour le champ de la largeur des zones de texte"
+    },
+
+    "fontSizeOfTextareas": {
+        "message": "Taille de la police",
+        "description": "Label pour le champ de la taille de la police"
+    },
+
+    "save": {
+        "message": "Sauvegarder",
+        "description": "Contenu du bouton de sauvegarde"
+    },
+
+    "sourceCodeOf": {
+        "message": "Code source de",
+        "description": "Anglais : 'Source code of'"
+    },
+
+    "previewTextarea": {
+        "message": "Ceci est un aperçu de la zone de texte",
+        "description": "Contenu de la zone de texte d'aperçu"
+    },
+
+    "keybindInformation": {
+        "message": "Information : Appuyez sur Alt+T pour traduire le texte sélectionné",
+        "description": "Indice pour le raccourci clavier permettant de traduire le texte sélectionné"
+    },
+
+    "copyToClipboard": {
+        "message": "Copier dans le presse-papiers",
+        "description": "Pop-up pour copier la traduction dans le presse-papiers"
+    },
+
+    "sourceLanguage": {
+        "message": "Langue source",
+        "description": "Pop-up pour la sélection de la langue source"
+    },
+
+    "targetLanguage": {
+        "message": "Langue cible",
+        "description": "Pop-up pour la sélection de la langue cible"
+    },
+
+    "swapLanguages": {
+        "message": "Échanger les langues",
+        "description": "Pop-up pour l'échange de la langue source et cible"
+    },
+
+    "translationError": {
+        "message": "Une erreur inattendue est survenue. Essayez d'utiliser une autre instance.",
+        "description": "Message d'erreur si la traduction échoue"
+    }
+}

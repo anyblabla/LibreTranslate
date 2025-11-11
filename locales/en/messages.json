@@ -1,0 +1,86 @@
+{
+    "manifest_description": {
+        "message": "Privacy focused Google Translations powered by LibreTranslate",
+        "description": "Manifest description of the extension"
+    },
+
+    "manifest_command_translateSelection": {
+        "message": "Translate selected text",
+        "description": "Manifest command description for translating selected text"
+    },
+
+    "instance": {
+        "message": "Instance",
+        "description": "Label for instance field"
+    },
+
+    "defaultSourceLanguage": {
+        "message": "Default source language",
+        "description": "Label for default source language field"
+    },
+
+    "defaultTargetLanguage": {
+        "message": "Default target language",
+        "description": "Label for default target language field"
+    },
+
+    "heightOfTextareas": {
+        "message": "Height of textareas",
+        "description": "Label for height of textareas field"
+    },
+
+    "widthOfTextareas": {
+        "message": "Width of textareas",
+        "description": "Label for width of textareas field"
+    },
+
+    "fontSizeOfTextareas": {
+        "message": "Font size",
+        "description": "Label for font size of textareas field"
+    },
+
+    "save": {
+        "message": "Save",
+        "description": "Content of the save button"
+    },
+
+    "sourceCodeOf": {
+        "message": "Source code of",
+        "description": "English: 'Source code of'"
+    },
+
+    "previewTextarea": {
+        "message": "This is a preview of a textarea",
+        "description": "Content of the preview textarea"
+    },
+
+    "keybindInformation": {
+        "message": "Information: Press Alt+T to translate selected text",
+        "description": "Hint for the keybinding to translate selected text"
+    },
+
+    "copyToClipboard": {
+        "message": "Copy to clipboard",
+        "description": "Popup for copying the translation to the clipboard in the popup"
+    },
+
+    "sourceLanguage": {
+        "message": "Source language",
+        "description": "Popup for selecting the source language in the popup"
+    },
+
+    "targetLanguage": {
+        "message": "Target language",
+        "description": "Popup for selecting the target language in the popup"
+    },
+
+    "swapLanguages": {
+        "message": "Swap languages",
+        "description": "Popup for switching source and target language in the popup"
+    },
+
+    "translationError": {
+        "message": "Unexpected error occured. Try to use another instance.",
+        "description": "Error message if the translation fails"
+    }
+}
