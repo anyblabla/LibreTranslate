@@ -25,8 +25,6 @@ L'extension est entièrement conforme aux exigences du **Manifest V3**.
 
 ### Méthode 1 : Via le Chrome Web Store (à venir)
 
-*(Si vous prévoyez de publier l'extension, laissez ce champ. Sinon, supprimez-le.)*
-
 ### Méthode 2 : Installation manuelle (développement/side-loading)
 
 1.  **Clonez le dépôt :**
@@ -77,8 +75,6 @@ The extension is fully compliant with **Manifest V3** requirements.
 ## 🚀 Installation
 
 ### Method 1: Via the Chrome Web Store (coming soon)
-
-*(If you plan to publish the extension, leave this field. Otherwise, delete it.)*
 
 ### Method 2: Manual installation (development/side-loading)
 
