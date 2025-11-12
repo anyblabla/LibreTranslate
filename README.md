@@ -29,11 +29,11 @@ L'extension est entièrement conforme aux exigences du **Manifest V3**.
 
 1.  **Clonez le dépôt :**
     ```bash
-    git clone [https://github.com/anyblabla/LibreTranslate.git](https://github.com/anyblabla/LibreTranslate.git)
+    git clone https://github.com/anyblabla/LibreTranslate.git
     ```
 	>⚠️  Ou via Gitea :
     ```bash
-    git clone [https://gitea.blablalinux.be/blablalinux/LibreTranslate](https://gitea.blablalinux.be/blablalinux/LibreTranslate)
+    git clone https://gitea.blablalinux.be/blablalinux/LibreTranslate
     ```
 2.  **Ouvrez votre navigateur** (Chrome, Vivaldi, etc.) et accédez à `chrome://extensions`.
 3.  Activez le **mode développeur** (*Developer mode*) en haut à droite.
@@ -80,11 +80,11 @@ The extension is fully compliant with **Manifest V3** requirements.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/anyblabla/LibreTranslate.git](https://github.com/anyblabla/LibreTranslate.git)
+    git clone https://github.com/anyblabla/LibreTranslate.git
     ```
     >⚠️  Or via Gitea :
     ```bash
-    git clone [https://gitea.blablalinux.be/blablalinux/LibreTranslate](https://gitea.blablalinux.be/blablalinux/LibreTranslate)
+    git clone https://gitea.blablalinux.be/blablalinux/LibreTranslate
     ```
 2.  **Open your browser** (Chrome, Vivaldi, etc.) and go to `chrome://extensions`.
 3.  Enable **Developer mode** in the top right corner.
